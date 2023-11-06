@@ -1,0 +1,59 @@
+/* Navigation Bar */
+.navbar ul{
+    overflow:auto;
+}
+.navbar li{
+    margin: 8px;
+    float:left;
+    list-style: none;
+    padding: 2px;
+
+}
+.navbar li a{
+    text-decoration: none;
+    color: black;
+}
+.navbar li a:active{
+    color:fuchsia;
+}
+.navbar li a:visited{
+    color: #00a7ff;
+}
+.navbar li a:hover{
+    color:rgb(13, 238, 88);
+}
+.search{
+    float:right;
+    color:black;
+    padding: 9px;
+}
+.navbar input{
+    border: 4px;
+    padding: 3px;
+    margin: 0px 4px 0px 4px;
+    width: 132px;
+}
+header{
+    /* background-color: #c266c2; */
+    justify-content:center;
+    color: black;
+    padding: 0px;
+}
+h2{
+    text-align: center;
+    margin: -8px 0px 9px 0px;
+}
+h2 a{
+    text-decoration: none;
+    color: black;
+}
+body{
+    margin: 8px 0px 0px 0px;
+    font-family: Arial, sans-serif;
+}
+/* .main{
+    min-height: 100vh;
+    background: url('photoset.jpg') no-repeat;
+    background-size: cover;
+    background-position: center;
+} */
