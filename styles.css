@@ -25,19 +25,22 @@
 .search{
     float:right;
     color:black;
-    padding: 9px;
+    padding: 7px;
 }
 .navbar input{
     border: 4px;
     padding: 3px;
-    margin: 0px 4px 0px 4px;
-    width: 132px;
+    margin: 6px 10px 7px -4px;
+    width: 144px;
 }
 header{
-    /* background-color: #c266c2; */
     justify-content:center;
     color: black;
     padding: 0px;
+}
+a{
+    text-decoration: none;
+    color: black;
 }
 h2{
     text-align: center;
@@ -50,6 +53,11 @@ h2 a{
 body{
     margin: 8px 0px 0px 0px;
     font-family: Arial, sans-serif;
+}
+.btn{
+    float: right;
+    margin: 7px 6px 3px 6px;
+    padding: 0px 10px 0px;
 }
 /* .main{
     min-height: 100vh;
