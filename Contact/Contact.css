@@ -16,9 +16,6 @@
 .navbar li a:active{
     color:fuchsia;
 }
-/* .navbar li a:visited{
-    color: #00a7ff;
-} */
 .navbar li a:hover{
     color:rgb(13, 238, 88);
 }
@@ -35,6 +32,7 @@
 }
 header{
     justify-content:center;
+    text-align: center;
     color: black;
     padding: 0px;
 }
@@ -59,9 +57,3 @@ body{
     margin: 7px 6px 3px 6px;
     padding: 0px 10px 0px;
 }
-/* .main{
-    min-height: 100vh;
-    background: url('photoset.jpg') no-repeat;
-    background-size: cover;
-    background-position: center;
-} */
